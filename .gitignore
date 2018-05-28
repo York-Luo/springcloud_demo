@@ -1,0 +1,23 @@
+# Maven #
+*/target/
+.mvn/
+mvnw
+mvnw.cmd
+#log#
+logs/
+
+# IDEA #
+.idea/
+*.iml
+
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
+
+# Mac #
+.DS_Store
+
