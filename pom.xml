@@ -17,5 +17,8 @@
         <module>springcloud_zuul</module>
         <module>springcloud_config_client</module>
         <module>springcloud_config_server</module>
+        <module>springcloud_service_a</module>
+        <module>springcloud_service_b</module>
+        <module>springcloud_sleuth</module>
     </modules>
 </project>
